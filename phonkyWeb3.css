@@ -1,0 +1,116 @@
+body {
+    background-image: url('phIMG2.jpg');
+    
+  }
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+#grey2 {
+    border: none;
+    position: absolute;
+    top: 25%;
+    left: 33%;
+    width: 670px;
+    height: 1000px;
+}
+#wp2 {
+    border: none;
+    position: absolute;
+    top: 27%;
+    left: 34%;
+    width: 270px;
+    height: 270px;
+}
+#wpt2 {
+    border: none;
+    position: absolute;
+    top: 25%;
+    left: 52%;
+    font-size: 40px;
+}
+#wpl2 {
+    border: none;
+    position: absolute;
+    top: 37%;
+    left: 52%;
+    font-size: 40px;
+}
+#wpl22 {
+    border: none;
+    position: absolute;
+    top: 49%;
+    left: 52%;
+    font-size: 40px;
+}
+
+
+
+
+
+#mim2 {
+    border: none;
+    position: absolute;
+    top: 59%;
+    left: 34%;
+    width: 270px;
+    height: 270px;
+}
+#mimt2 {
+    border: none;
+    position: absolute;
+    top: 62%;
+    left: 49%;
+    font-size: 34px;
+}
+#miml2 {
+    border: none;
+    position: absolute;
+    top: 70%;
+    left: 52%;
+    font-size: 40px;
+}
+#miml22 {
+    border: none;
+    position: absolute;
+    top: 82%;
+    left: 52%;
+    font-size: 40px;
+}
+
+
+
+
+#mt2 {
+    border: none;
+    position: absolute;
+    top: 92%;
+    left: 34%;
+    width: 270px;
+    height: 270px;
+}
+#mtt2 {
+    border: none;
+    position: absolute;
+    top: 90%;
+    left: 49%;
+    font-size: 34px;
+}
+#mtl2 {
+    border: none;
+    position: absolute;
+    top: 103%;
+    left: 52%;
+    font-size: 40px;
+}
+#mtl22 {
+    border: none;
+    position: absolute;
+    top: 115%;
+    left: 52%;
+    font-size: 40px;
+}
